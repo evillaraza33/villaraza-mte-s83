@@ -186,7 +186,7 @@ a {
 /* =========================================
    HERO SECTION
    ========================================= */
-.hero {
+#hero {
   background-color: var(--brand-cream-bg);
   padding: 4.5rem 0 5rem;
 }
